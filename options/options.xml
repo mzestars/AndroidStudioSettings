@@ -17,8 +17,9 @@
     <property name="installation.uid" value="10a93080-4845-4a58-bd73-ebbfe171cad7" />
     <property name="android-component-compatibility-check" value="1449410895288" />
     <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/MyProjects/AndroidStudio/AsmaUlHusna" />
-    <property name="lastTip" value="1" />
+    <property name="lastTip" value="2" />
     <property name="LayoutCode.optimizeImports" value="true" />
     <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
   </component>
 </application>
