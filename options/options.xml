@@ -1,0 +1,20 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="AndroidInitConfigurator.V4" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V2" value="true" />
+    <property name="crashlytics.webApiUrl" value="https://api.crashlytics.com" />
+    <property name="crashlytics.startPluginUpdater" value="true" />
+    <property name="crashlytics.startSdkUpdater" value="true" />
+    <property name="fabric.installationId" value="c558b0fd-9f30-492a-a1c8-5b5dfa89bc83" />
+    <property name="crashlytics.cmApiUrl" value="https://cm.crashlytics.com" />
+    <property name="crashlytics.distributionUploadsApiUrl" value="https://distribution-uploads.crashlytics.com" />
+    <property name="crashlytics.kitApiUrl" value="https://kits.crashlytics.com" />
+    <property name="fabric.override_email" value="false" />
+    <property name="installation.uid" value="57383fc8-9dcc-4cb6-8816-bffdad5a1930" />
+    <property name="android-component-compatibility-check" value="1449400689338" />
+  </component>
+</application>
