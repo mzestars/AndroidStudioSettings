@@ -3,7 +3,7 @@
     <variable name="cast" expression="expectedType()" defaultValue="" alwaysStopAt="true" />
     <variable name="resId" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
 </templateSet>
