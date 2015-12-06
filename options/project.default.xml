@@ -34,6 +34,10 @@
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
       <component name="RunManager">
         <configuration default="true" type="Application" factoryName="Application">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
