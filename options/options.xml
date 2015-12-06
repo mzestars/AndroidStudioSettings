@@ -1,0 +1,6 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+  </component>
+</application>

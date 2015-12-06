@@ -5,3 +5,8 @@ port
 dimensions.xml
 statistics.application.usages.xml
 git.xml
+window.manager.xml
+feature.usage.statistics.xml
+recentProjects.xml
+runner.layout.xml
+jdk.table.xml
