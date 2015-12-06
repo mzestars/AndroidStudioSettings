@@ -1,0 +1,5 @@
+<keymap version="1" name="Zul Keymap" parent="Mac OS X 10.5+">
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+</keymap>
