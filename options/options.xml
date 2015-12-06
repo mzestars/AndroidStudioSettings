@@ -1,0 +1,24 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="AndroidInitConfigurator.V4" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V2" value="true" />
+    <property name="crashlytics.webApiUrl" value="https://api.crashlytics.com" />
+    <property name="crashlytics.startPluginUpdater" value="true" />
+    <property name="crashlytics.startSdkUpdater" value="true" />
+    <property name="fabric.installationId" value="579bc233-28e4-4c49-98bf-73a13afeadb3" />
+    <property name="crashlytics.cmApiUrl" value="https://cm.crashlytics.com" />
+    <property name="crashlytics.distributionUploadsApiUrl" value="https://distribution-uploads.crashlytics.com" />
+    <property name="crashlytics.kitApiUrl" value="https://kits.crashlytics.com" />
+    <property name="fabric.override_email" value="false" />
+    <property name="installation.uid" value="10a93080-4845-4a58-bd73-ebbfe171cad7" />
+    <property name="android-component-compatibility-check" value="1449410895288" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/MyProjects/AndroidStudio/AsmaUlHusna" />
+    <property name="lastTip" value="1" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+  </component>
+</application>
