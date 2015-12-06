@@ -16,5 +16,7 @@
     <property name="fabric.override_email" value="false" />
     <property name="installation.uid" value="57383fc8-9dcc-4cb6-8816-bffdad5a1930" />
     <property name="android-component-compatibility-check" value="1449400689338" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/MyProjects/AndroidStudio/AsmaUlHusna" />
+    <property name="lastTip" value="1" />
   </component>
 </application>
