@@ -3,3 +3,5 @@ disabled_update.txt
 tasks
 port
 git.xml
+dimensions.xml
+statistics.application.usages.xml
