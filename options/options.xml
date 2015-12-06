@@ -18,6 +18,7 @@
     <property name="fabric.override_email" value="false" />
     <property name="installation.uid" value="12f3c03a-c5c7-4044-a986-4e13aac6546c" />
     <property name="android-component-compatibility-check" value="1449406361932" />
-    <property name="lastTip" value="2" />
+    <property name="lastTip" value="3" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
   </component>
 </application>
