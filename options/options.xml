@@ -16,10 +16,20 @@
     <property name="fabric.override_email" value="false" />
     <property name="installation.uid" value="10a93080-4845-4a58-bd73-ebbfe171cad7" />
     <property name="android-component-compatibility-check" value="1449410895288" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/MyProjects/AndroidStudio/AsmaUlHusna" />
-    <property name="lastTip" value="2" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/StudioProjects/Plaid/settings.gradle&#10;/Users/mohd.zulfadhli/Documents/GIT/OneNet/android/1.1/OneNet/library/src/main/res/drawable/rounded_rectangle_gray_medium.xml&#10;/Users/mohd.zulfadhli/Documents/StudioProjects/MyTestingApplication&#10;/Users/mohd.zulfadhli/Documents/MyProjects/AndroidStudio/GooglePlayDeveloper&#10;/Users/mohd.zulfadhli/Documents/GIT/zul_mk_keystore.jks&#10;/Users/mohd.zulfadhli/Documents/MyProjects/AndroidStudio/FortyHadith&#10;/Users/mohd.zulfadhli/Documents/MyProjects/AndroidStudio&#10;/Users/mohd.zulfadhli/Documents/StudioProjects/android-UniversalMusicPlayer&#10;/Users/mohd.zulfadhli/Documents/GIT/mmsrouter&#10;/Users/mohd.zulfadhli/Documents/GIT/bold-pay-android-1-x&#10;/Users/mohd.zulfadhli/Documents/GIT/OneNet/android/1.1/OneNet&#10;/Users/mohd.zulfadhli/Documents/MyProjects/AndroidStudio/AsmaUlHusna" />
+    <property name="lastTip" value="8" />
     <property name="LayoutCode.optimizeImports" value="true" />
     <property name="LayoutCode.rearrangeEntriesJava" value="true" />
-    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="SAVED_COMPANY_DOMAIN" value="android.kaydeetech.com" />
+    <property name="MobileminApi" value="9" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="settings.code.style.selected.tab.XML" value="Tabs and Indents" />
   </component>
 </application>

@@ -12,3 +12,5 @@ runner.layout.xml
 jdk.table.xml
 path.macros.xml
 androidStudioFirstRun.xml
+find.recents.xml
+mavenVersion.xml

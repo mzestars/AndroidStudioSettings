@@ -1,5 +1,13 @@
 <application>
   <component name="UpdatesConfigurable">
+    <knownUpdateChannels>
+      <item value="AI-2-eap" />
+      <item value="AI-1-eap" />
+      <item value="AI-1-milestone" />
+      <item value="AI-1-beta" />
+      <item value="AI-1-release" />
+      <item value="AI-0-beta" />
+    </knownUpdateChannels>
     <enabledExternalComponentSources>
       <item value="Android SDK" />
     </enabledExternalComponentSources>
@@ -11,6 +19,8 @@
         <entry key="Android SDK" value="Stable Channel" />
       </map>
     </option>
-    <option name="UPDATE_CHANNEL_TYPE" value="beta" />
+    <option name="LAST_TIME_CHECKED" value="1449829907474" />
+    <option name="LAST_BUILD_CHECKED" value="AI-143.2479369" />
+    <option name="UPDATE_CHANNEL_TYPE" value="eap" />
   </component>
 </application>
