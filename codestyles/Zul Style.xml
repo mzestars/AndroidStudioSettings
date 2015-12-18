@@ -68,6 +68,7 @@
   </XML>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="IF_BRACE_FORCE" value="3" />
     <option name="WRAP_LONG_LINES" value="true" />
     <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
