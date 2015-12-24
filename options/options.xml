@@ -15,9 +15,9 @@
     <property name="crashlytics.kitApiUrl" value="https://kits.crashlytics.com" />
     <property name="fabric.override_email" value="false" />
     <property name="installation.uid" value="10a93080-4845-4a58-bd73-ebbfe171cad7" />
-    <property name="android-component-compatibility-check" value="1450145784240" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/StudioProjects/Plaid/settings.gradle&#10;/Users/mohd.zulfadhli/Documents/GIT/OneNet/android/1.1/OneNet/library/src/main/res/drawable/rounded_rectangle_gray_medium.xml&#10;/Users/mohd.zulfadhli/Documents/StudioProjects/MyTestingApplication&#10;/Users/mohd.zulfadhli/Documents/MyProjects/AndroidStudio/GooglePlayDeveloper&#10;/Users/mohd.zulfadhli/Documents/GIT/zul_mk_keystore.jks&#10;/Users/mohd.zulfadhli/Documents/MyProjects/AndroidStudio/FortyHadith&#10;/Users/mohd.zulfadhli/Documents/MyProjects/AndroidStudio&#10;/Users/mohd.zulfadhli/Documents/StudioProjects/android-UniversalMusicPlayer&#10;/Users/mohd.zulfadhli/Documents/GIT/mmsrouter&#10;/Users/mohd.zulfadhli/Documents/GIT/bold-pay-android-1-x&#10;/Users/mohd.zulfadhli/Documents/GIT/OneNet/android/1.1/OneNet&#10;/Users/mohd.zulfadhli/Documents/MyProjects/AndroidStudio/AsmaUlHusna" />
-    <property name="lastTip" value="10" />
+    <property name="android-component-compatibility-check" value="1450759574594" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/StudioProjects/InstaMaterial&#10;/Users/mohd.zulfadhli/Documents/StudioProjects/Wallsplash/settings.gradle&#10;/Users/mohd.zulfadhli/Documents/StudioProjects/cheesesquare&#10;/Users/mohd.zulfadhli/Documents/StudioProjects/cheesesquare/settings.gradle&#10;/Users/mohd.zulfadhli/Documents/StudioProjects/Plaid/settings.gradle&#10;/Users/mohd.zulfadhli/Documents/GIT/OneNet/android/1.1/OneNet/library/src/main/res/drawable/rounded_rectangle_gray_medium.xml&#10;/Users/mohd.zulfadhli/Documents/StudioProjects/MyTestingApplication&#10;/Users/mohd.zulfadhli/Documents/MyProjects/AndroidStudio/GooglePlayDeveloper&#10;/Users/mohd.zulfadhli/Documents/GIT/zul_mk_keystore.jks&#10;/Users/mohd.zulfadhli/Documents/MyProjects/AndroidStudio/FortyHadith&#10;/Users/mohd.zulfadhli/Documents/MyProjects/AndroidStudio&#10;/Users/mohd.zulfadhli/Documents/StudioProjects/android-UniversalMusicPlayer&#10;/Users/mohd.zulfadhli/Documents/GIT/mmsrouter&#10;/Users/mohd.zulfadhli/Documents/GIT/bold-pay-android-1-x&#10;/Users/mohd.zulfadhli/Documents/GIT/OneNet/android/1.1/OneNet&#10;/Users/mohd.zulfadhli/Documents/MyProjects/AndroidStudio/AsmaUlHusna" />
+    <property name="lastTip" value="20" />
     <property name="LayoutCode.optimizeImports" value="true" />
     <property name="LayoutCode.rearrangeEntriesJava" value="true" />
     <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
@@ -31,5 +31,12 @@
     <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="settings.code.style.selected.tab.XML" value="Tabs and Indents" />
+    <property name="studio.activity.count" value="38" />
+    <property name="last.imported.location" value="$USER_HOME$/Documents/StudioProjects/cheesesquare" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="LOG_FILTER_HISTORY" value="TAGGER&#10;NameListActivity&#10;NameList&#10;TAGG" />
+    <property name="LayoutCode.processChangedText" value="true" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="LayoutCode.rearrangeEntriesXML" value="true" />
   </component>
 </application>
